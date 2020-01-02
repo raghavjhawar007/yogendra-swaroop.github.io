@@ -12,44 +12,8 @@ baseurl: "/oscp" # the subpath of your site, e.g. /blog
 url: "http://yogendra-swaroop.tech" # the base hostname & protocol for your site
 social:
   linkedin-square: https://linkedin.com/in/yogendra-swaroop-srivastava-8aa45874/
-  #email: /contact/
-  #flickr:
-  #instagram:
-  #youtube-square:
-  #spotify:
-  #stack-overflow:
-  #vimeo:
-  #reddit:
-  #stubleupon:
-  #delicious:
-  #pied-piper:
-  #digg:
-  #soundcloud:
-  #deviantart:
-  #angellist:
-  #tumblr-square:
-  #stackexchange:
-  #weibo:
-  #trello:
-  #foursquare:
-  #linux:
-  #bitbucket-square:
-  #vk:
-  #slack:
-  #vine:
-  #weixin:
-  #yelp:
-  #skyatlas:
-  #leanpub:
-  #connectdevelop:
-  #ils:
-  #forumbee:
-  #tripadvisor:
-  #amazon:
-
+ 
 # Build settings
 markdown: kramdown
-#sass:
-#  style: compressed
 
 theme: jekyll-theme-time-machine
